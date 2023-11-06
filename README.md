@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Syed Muhammad Atif
-- 👀 I’m interested in enjoying life
+- 👀 I’m interested in web dev, your mom, c++ and coding in general
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me is through email.
